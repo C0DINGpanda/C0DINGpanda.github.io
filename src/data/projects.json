@@ -39,5 +39,14 @@
             "I worked mainly on possibility to deploy this using Docker and how to deploy it to Azure docker. "
         ],
         "id": 3
+    },
+    {
+        "name": "Personal portfolio",
+        "githubLink": "https://github.com/C0DINGpanda/ReactPortfolio",
+        "techstacks": "React, Email JS",
+        "description": [
+            "You are here!"
+        ],
+        "id": 4
     }
 ]
