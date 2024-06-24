@@ -1,0 +1,26 @@
+[
+    {
+        "from": "July 2017",
+        "to": "July 2018",
+        "company": "CSI SJCE",
+        "position": "Student exicutive",
+        "experience": [
+            "Conducted a hackathon in collab with Venturcity",
+            "Organized multipl gaming events",
+            "Lead creative team for 3 years"
+        ],
+        "id": 1
+    },
+    {
+        "from": "July 2017",
+        "to": "July 2018",
+        "company": "IEEE SJCE",
+        "position": "Student exicutive offisor",
+        "experience": [
+            "National Robo war runner",
+            "Created multiple IOT applications using Aurdino, Embeded C, Java and Logical circuits",
+            "Created a RC Robo, touchless mouse\\Controller"
+        ],
+        "id": 1
+    }
+]
